@@ -1,0 +1,165 @@
+[21-Jun-2014 18:06:41 America/Denver] PHP Fatal error:  Exception: Please wait at least 45 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('')
+#1 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Session->allowLogin('')
+#5 [internal function]: Session->___login('', NULL)
+#6 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(359): call_user_func_arra in /home5/electug8/public_html/pwtest/ProcessWire-master/index.php on line 216
+[21-Jun-2014 18:11:04 America/Denver] PHP Fatal error:  Exception: Please wait at least 50 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('')
+#1 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Session->allowLogin('')
+#5 [internal function]: Session->___login('', NULL)
+#6 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(359): call_user_func_arra in /home5/electug8/public_html/pwtest/ProcessWire-master/index.php on line 216
+[21-Jun-2014 18:11:06 America/Denver] PHP Fatal error:  Exception: Please wait at least 50 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('')
+#1 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Session->allowLogin('')
+#5 [internal function]: Session->___login('', NULL)
+#6 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(359): call_user_func_arra in /home5/electug8/public_html/pwtest/ProcessWire-master/index.php on line 216
+[21-Jun-2014 18:11:15 America/Denver] PHP Fatal error:  Exception: Please wait at least 50 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('')
+#1 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Session->allowLogin('')
+#5 [internal function]: Session->___login('', NULL)
+#6 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(359): call_user_func_arra in /home5/electug8/public_html/pwtest/ProcessWire-master/index.php on line 216
+[21-Jun-2014 18:11:17 America/Denver] PHP Fatal error:  Exception: Please wait at least 50 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('')
+#1 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Session->allowLogin('')
+#5 [internal function]: Session->___login('', NULL)
+#6 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(359): call_user_func_arra in /home5/electug8/public_html/pwtest/ProcessWire-master/index.php on line 216
+[21-Jun-2014 18:11:18 America/Denver] PHP Fatal error:  Exception: Please wait at least 50 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('')
+#1 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Session->allowLogin('')
+#5 [internal function]: Session->___login('', NULL)
+#6 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(359): call_user_func_arra in /home5/electug8/public_html/pwtest/ProcessWire-master/index.php on line 216
+[21-Jun-2014 18:11:24 America/Denver] PHP Fatal error:  Exception: Please wait at least 50 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('')
+#1 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Session->allowLogin('')
+#5 [internal function]: Session->___login('', NULL)
+#6 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(359): call_user_func_arra in /home5/electug8/public_html/pwtest/ProcessWire-master/index.php on line 216
+[21-Jun-2014 18:26:26 America/Denver] PHP Fatal error:  Exception: Please wait at least 60 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('')
+#1 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Session->allowLogin('')
+#5 [internal function]: Session->___login('', NULL)
+#6 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(359): call_user_func_arra in /home5/electug8/public_html/pwtest/ProcessWire-master/index.php on line 216
+[21-Jun-2014 18:28:21 America/Denver] PHP Fatal error:  Exception: Please wait at least 60 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('')
+#1 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Session->allowLogin('')
+#5 [internal function]: Session->___login('', NULL)
+#6 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(359): call_user_func_arra in /home5/electug8/public_html/pwtest/ProcessWire-master/index.php on line 216
+[21-Jun-2014 18:29:58 America/Denver] PHP Fatal error:  Exception: Please wait at least 60 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('')
+#1 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Session.php(259): Session->allowLogin('')
+#5 [internal function]: Session->___login('', NULL)
+#6 /home5/electug8/public_html/pwtest/ProcessWire-master/wire/core/Wire.php(359): call_user_func_arra in /home5/electug8/public_html/pwtest/ProcessWire-master/index.php on line 216
+[21-Jun-2014 18:34:19 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home5/electug8/public_html/pwtest/ProcessWire-master/site/templates/login.php on line 19
+[22-Jun-2014 12:35:22 America/Denver] PHP Fatal error:  Exception: Please wait at least 25 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('admin')
+#1 /home5/electug8/public_html/pwtest/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Session->allowLogin('admin')
+#5 [internal function]: Session->___login('admin', 'cerveza')
+#6 /home5/electug8/public_html/pwtest/wire/core/Wire.php(359): call_user_func_array(Array, Array)
+#7 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('login', Array)
+#8  in /home5/electug8/public_html/pwtest/index.php on line 216
+[22-Jun-2014 12:35:37 America/Denver] PHP Fatal error:  Exception: Please wait at least 25 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('admin')
+#1 /home5/electug8/public_html/pwtest/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Session->allowLogin('admin')
+#5 [internal function]: Session->___login('admin', 'cerveza')
+#6 /home5/electug8/public_html/pwtest/wire/core/Wire.php(359): call_user_func_array(Array, Array)
+#7 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('login', Array)
+#8  in /home5/electug8/public_html/pwtest/index.php on line 216
+[22-Jun-2014 15:35:53 America/Denver] PHP Fatal error:  Exception: Please wait at least 50 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('admin')
+#1 /home5/electug8/public_html/pwtest/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Session->allowLogin('admin')
+#5 [internal function]: Session->___login('admin', 'cerveza-gx1')
+#6 /home5/electug8/public_html/pwtest/wire/core/Wire.php(359): call_user_func_array(Array, Array)
+#7 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('login', Array) in /home5/electug8/public_html/pwtest/index.php on line 216
+[22-Jun-2014 15:54:45 America/Denver] PHP Fatal error:  Exception: Please wait at least 60 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('admin')
+#1 /home5/electug8/public_html/pwtest/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Session->allowLogin('admin')
+#5 [internal function]: Session->___login('admin', 'cerveza-gx1')
+#6 /home5/electug8/public_html/pwtest/wire/core/Wire.php(359): call_user_func_array(Array, Array)
+#7 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('login', Array) in /home5/electug8/public_html/pwtest/index.php on line 216
+[22-Jun-2014 15:55:09 America/Denver] PHP Fatal error:  Exception: Please wait at least 60 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('admin')
+#1 /home5/electug8/public_html/pwtest/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Session->allowLogin('admin')
+#5 [internal function]: Session->___login('admin', 'cerveza-gx1')
+#6 /home5/electug8/public_html/pwtest/wire/core/Wire.php(359): call_user_func_array(Array, Array)
+#7 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('login', Array) in /home5/electug8/public_html/pwtest/index.php on line 216
+[23-Jun-2014 09:30:38 America/Denver] PHP Fatal error:  Exception: Please wait at least 60 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('admin')
+#1 /home5/electug8/public_html/pwtest/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Session->allowLogin('admin')
+#5 [internal function]: Session->___login('admin', 'cerveza-gx1')
+#6 /home5/electug8/public_html/pwtest/wire/core/Wire.php(359): call_user_func_array(Array, Array)
+#7 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('login', Array) in /home5/electug8/public_html/pwtest/index.php on line 216
+[23-Jun-2014 09:30:51 America/Denver] PHP Fatal error:  Exception: Please wait at least 60 seconds before attempting another login. (in /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module line 100)
+
+#0 /home5/electug8/public_html/pwtest/wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module(68): SessionLoginThrottle->allowLogin('admin')
+#1 /home5/electug8/public_html/pwtest/wire/core/Wire.php(381): SessionLoginThrottle->sessionAllowLogin(Object(HookEvent))
+#2 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('allowLogin', Array)
+#3 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Wire->__call('allowLogin', Array)
+#4 /home5/electug8/public_html/pwtest/wire/core/Session.php(259): Session->allowLogin('admin')
+#5 [internal function]: Session->___login('admin', 'cerveza-gx1')
+#6 /home5/electug8/public_html/pwtest/wire/core/Wire.php(359): call_user_func_array(Array, Array)
+#7 /home5/electug8/public_html/pwtest/wire/core/Wire.php(317): Wire->runHooks('login', Array) in /home5/electug8/public_html/pwtest/index.php on line 216
+[29-Jun-2014 00:15:02 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home5/electug8/public_html/pwtest/site/templates/login.php on line 66
+[29-Jun-2014 00:18:58 America/Denver] PHP Parse error:  syntax error, unexpected '/' in /home5/electug8/public_html/pwtest/site/templates/login.php on line 65

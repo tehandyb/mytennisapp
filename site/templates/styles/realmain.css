@@ -1,0 +1,113 @@
+.logout_linkbtn
+{
+	right: 20px;
+	top: 10px;
+	position: fixed;
+	
+}
+
+html, body
+{
+	background-color: #E7EFEF !important;
+	//height: 2000px;
+	//padding-top: 65px;
+}
+
+@media (min-width: 981px) { body { padding-top: 60px; } }
+
+.navbar-inner
+{
+	background: rgb(2,229,146); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(2,229,146,1) 0%, rgba(72,173,106,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(2,229,146,1)), color-stop(100%,rgba(72,173,106,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(2,229,146,1) 0%,rgba(72,173,106,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(2,229,146,1) 0%,rgba(72,173,106,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(2,229,146,1) 0%,rgba(72,173,106,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(2,229,146,1) 0%,rgba(72,173,106,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#02e592', endColorstr='#48ad6a',GradientType=0 ); /* IE6-9 */
+	
+}
+
+.navbar .nav .active > a, .navbar .nav .active > a:hover
+{
+	
+	background-color: #green;// !important;
+}
+
+.nav > li > a.dropdown-toggle
+{
+	margin-top: 7px;
+	border-radius: 5px;
+	padding: 8px;
+	color: white;//!important;
+	
+
+}
+.nav > li > a.menulink
+{
+	color: white;
+	margin-top: 4px;
+	
+}
+.nav > li > a:focus
+{
+	
+	background-color: #5B946E;// !important;
+}
+ul.nav a:hover
+{
+	
+	background-color: #5B946E;// !important;
+}
+
+
+.panel-primary
+{
+	
+	//margin: 10px;
+}
+
+#settingsRow
+{
+	margin: 40px 40px 40px 40px;
+}
+
+.top_search_form input[type=text]
+{
+	box-shadow: 0 0 5px #DDD inset;
+	border: 0px solid grey;
+	border: none;
+	width: 450px;
+	
+}
+.top_search_form button
+{
+	position: fixed;
+	border: none;
+	background: none;
+	margin-left: -35px;
+	padding: 5px 14px 8px 5px;
+	
+}
+.top_search_form button:focus
+{
+	
+	outline: 0;
+}
+.profileImgSmall
+{
+	height: 40px;
+	width: 40px;
+}
+
+.profileImgTiny
+{
+	height: 30px;
+	width: 30px;
+	margin-right: 15px;
+}
+
+
+
+
+

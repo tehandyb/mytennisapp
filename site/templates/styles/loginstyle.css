@@ -1,0 +1,143 @@
+#overlay
+{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+
+}
+
+#modal {
+	position: absolute;
+	background: rgba(0,0,0, 0.2);
+	border-radius: 14px;
+	padding: 8px;
+}
+
+#loginformcontent
+{
+	border-radius: 8px;
+	background: #fff;
+	padding: 20px;
+}
+
+.regerrorlabel
+{
+	border: solid #903636;
+	border-width: 1px;
+	margin-left: 15px;
+	padding: 8px;
+	color: white;
+	background-color: #CD4D4D;
+	border-radius:5px;
+	font-weight:normal;
+	-webkit-box-shadow: 5px 1px 31px -10px rgba(0,0,0,0.73);
+	-moz-box-shadow: 5px 1px 31px -10px rgba(0,0,0,0.73);
+	box-shadow: 5px 1px 31px -10px rgba(0,0,0,0.73);
+	
+}
+.regerrorlabel:before
+{
+	content: " ";
+	height: 0;
+	position: absolute;
+	width: 0;
+	left: 185px;
+	float: left;
+	border: 10px solid transparent;
+	border-right-color: #CD4D4D;
+}
+
+.modal-header
+{
+	background-color: #85ADAD;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	
+}
+
+.modal-dialog
+{
+	width: 500px;
+}
+
+.regmodalheader
+{
+	//background-color: grey;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	
+}
+
+.loginform input[type=text], .loginform input[type=password], .registerform input[type=text], .registerform input[type=password]
+{
+	box-shadow: 0 0 5px #DDD inset;
+	border: 0px solid grey;
+	outline: 0;
+	padding: 5px;
+	background-color: #F8FAFA;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+body
+{
+	background-color: #E7EFEF;
+	
+}	
+
+#topspace
+{
+	
+	padding-top: 35px;
+	padding-bottom: 35px;
+	border-bottom: 1px solid #85ADAD;
+	position: relative;
+	
+}
+
+#topspace div
+{
+	display: inline;
+	
+}
+
+#logoplaceholder
+{
+	margin-left:  200px;
+	padding: 10px;
+	border: 1px dashed red;
+}
+
+#signin
+{
+	color: #6A8A8A;
+	margin-left: 580px;
+	
+}
+#signin a
+{
+	margin-left: 10px;
+	padding: 10px 20px 10px 20px;
+}
+
+#bodyplaceholder
+{
+	height: 500px;
+	
+}
+
+#footerspace
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-top: 1px solid #85ADAD;
+	
+}
+

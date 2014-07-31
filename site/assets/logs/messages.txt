@@ -1,0 +1,2 @@
+2014-06-18 18:07:30	admin	http://pwtest.electrobach.com/ProcessWire-master/about/what/	Added created/modified to DB schema for 'images'
+2014-06-22 15:43:42	admin	http://pwtest.electrobach.com/processwire/profile/	Profile saved - pass (WireLog)
